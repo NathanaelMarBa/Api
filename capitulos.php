@@ -21,10 +21,10 @@
           <a href="index.php"><img src="logo.png" alt="100px" width="100px" class="d-inline-block align-text-top" href="index.php"></a>
         </li>
         <li class="nav-item top">
-          <h4> <a class="nav active a" aria-current="page" href="personajes.PHP">Personajes</a> </h4>
+          <h4> <a class="nav active a" aria-current="page" href="personajes.php">Personajes</a> </h4>
         </li>
         <li class="nav-item top">
-          <h4> <a class="nav active a" href="capitulos.PHP">  Capitulos</a> </h4>
+          <h4> <a class="nav active a" href="capitulos.php">  Capitulos</a> </h4>
         </li>
       </ul>
     </div>
