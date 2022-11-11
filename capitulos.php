@@ -36,7 +36,7 @@
             <h1> </h1>    
             <br><br>
                 <?php
-                require('funciones.PHP');
+                require('funciones.php');
                 ObtenerEpisodios();
                 ?>
             </div>

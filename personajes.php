@@ -35,7 +35,7 @@
         <div class="container text-end ">
             <div class="row justify-content-end">
                 <?php
-                require('funciones.PHP');
+                require('funciones.php');
                 ObtenerPersonajes();
                 ?>
             </div>
